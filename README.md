@@ -8,7 +8,7 @@ This repository contains the problem set and programming assignment solutions in
 
 Date Started: 7 February 2024
 
-Date Completed: 6 April 2024
+Date Completed: 7 April 2024
 
 The problem set and programming assignment solutions are uploaded only for reference purposes. Please attempt the quizzes and programming assignments yourself and only look at the explanations if you find that you still can't understand it after consulting the discussion forums and reviewing the lecture content.
 
