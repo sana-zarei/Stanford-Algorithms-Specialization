@@ -6,7 +6,7 @@ Problem Set and Programming Assignment Solutions in C++ to Stanford University's
 ## Introduction
 This repository contains the problem set and programming assignment solutions in C++ to the specialization. On Coursera, the specialization consists of four courses.
 
-Date Started: 14 February 2021
+Date Started: 6 February 2021
 
 Date Completed: 14 April 2021
 
