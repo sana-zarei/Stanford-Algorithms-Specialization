@@ -3,9 +3,9 @@ Problem Set and Programming Assignment Solutions in C++ to Stanford University's
 
 **Instructor**: [Tim Roughgarden](https://www.coursera.org/instructor/~768)
 
-<div style="text-align:center;">
-    [<img src="./ScreenShots/Algorithms%20Specialization.png" alt="Certificate" width="50%">](#?size=a4)
-</div>
+<p align="center">
+  <img src="./ScreenShots/Algorithms%20Specialization.png" alt="Certificate" width="50%">
+</p>
 
 ## Introduction
 This repository contains the problem set and programming assignment solutions in C++ to the specialization. On Coursera, the specialization consists of four courses.
