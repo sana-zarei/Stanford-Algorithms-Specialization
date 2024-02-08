@@ -36,7 +36,9 @@ Week 4:
 * [Problem Set](#)
 * [Final Exam](#)
 
-[![Certificate](./ScreenShots/Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms.png)](#?size=a4)
+<p align="center">
+  <img src="./ScreenShots/Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms.png" alt="Certificate" width="50%">
+</p>
 
 ### [Course 2: Graph Search, Shortest Paths, and Data Structures](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%202)
 #### Progress: 20 February 2024 - 5 March 2024 (Completed)
