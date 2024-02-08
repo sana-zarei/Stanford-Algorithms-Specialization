@@ -59,7 +59,9 @@ Week 4:
 * [Problem Set](#)
 * [Final Exam](#)
 
-[![Certificate](./ScreenShots/Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures.png)](#?size=a4)
+<p align="center">
+  <img src="./ScreenShots/Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures.png" alt="Certificate" width="75%">
+</p>
 
 ### [Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%203/Week%201)
 #### Progress: 10 March 2024 - 20 March 2024 (Completed)
