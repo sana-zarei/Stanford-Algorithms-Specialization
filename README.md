@@ -82,6 +82,8 @@ Week 4:
 * [Problem Set](#)
 * [Final Exam](#)
 
+[![Certificate](./ScreenShots/Greedy%20Algorithms%2C%20Minimum%20Spanning%20Trees%2C%20and%20Dynamic%20Programming)](#?size=a4)
+
 ### [Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%204)
 #### Progress: 22 March 2024 - 1 April 2024 (Completed)
 Week 1:
