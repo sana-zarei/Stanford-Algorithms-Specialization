@@ -113,5 +113,6 @@ Week 4:
 * [Problem Set](#)
 * [Final Exam](#)
 
-[![Certificate](./ScreenShots/Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them.png)](#?size=a4)
-
+<p align="center">
+  <img src="./ScreenShots/Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them.png" alt="Certificate" width="75%">
+</p>
