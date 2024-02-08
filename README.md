@@ -32,6 +32,8 @@ Week 4:
 * [Problem Set](#)
 * [Final Exam](#)
 
+[![Certificate](./ScreenShots/Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms.png)](#?size=a4)
+
 ### [Course 2: Graph Search, Shortest Paths, and Data Structures](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%202)
 #### Progress: 20 February 2024 - 5 March 2024 (Completed)
 Week 1:
@@ -50,9 +52,6 @@ Week 4:
 * [Programming Assignment](#)
 * [Problem Set](#)
 * [Final Exam](#)
-
-[![Certificate](./Screenshot/Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms.png)](#?size=a4)
-
 
 ### [Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%203/Week%201)
 #### Progress: 10 March 2024 - 20 March 2024 (Completed)
