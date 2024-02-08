@@ -103,5 +103,5 @@ Week 4:
 * [Problem Set](#)
 * [Final Exam](#)
 
-[![Certificate](./ScreenShots/Greedy%20Algorithms%2C%20Minimum%20Spanning%20Trees%2C%20and%20Dynamic%20Programming)](#?size=a4)
+[![Certificate](./ScreenShots/Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them.png)](#?size=a4)
 
