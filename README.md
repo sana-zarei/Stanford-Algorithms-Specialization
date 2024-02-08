@@ -102,3 +102,6 @@ Week 4:
 * [Programming Assignment](#)
 * [Problem Set](#)
 * [Final Exam](#)
+
+[![Certificate](./ScreenShots/Greedy%20Algorithms%2C%20Minimum%20Spanning%20Trees%2C%20and%20Dynamic%20Programming)](#?size=a4)
+
